@@ -29,7 +29,7 @@ Grouped by where they appear in the guide:
 - **Getting started**: `signin`, `onboarding-basics`, `onboarding-resume`,
   `onboarding-review`, `onboarding-background`, `onboarding-direction`,
   `join-code`, `course-new`
-- **Living profile**: `home-graph`, `home-atlas`
+- **Living profile**: `home-graph`, `atlas-view`
 - **Course dashboard**: `course-dashboard`, `course-tabs`, `finishing`
 - **Check-ins**: `checkpoint-charter` (start), `checkpoint-form` (mid/end),
   `checkpoint-carryforward`, `checkpoint-peer`, `checkpoint-end`
@@ -38,5 +38,10 @@ Grouped by where they appear in the guide:
 - **Personal view**: `personal-growth`, `personal-feedback`, `artifacts-roadmap`
 - **Artifacts**: `artifact-record`, `artifact-interview-stories`, `artifact-growth-summary`
 
+The atlas (`atlas-view`) is captured **by hand** from a real browser: it's a
+Konva canvas that paints 30-plus illustrated PNG assets, and it needs the full
+download to finish before it renders, which a headless run doesn't reliably wait
+out. Refresh it manually if the atlas art changes.
+
 Faculty and explore shots (`faculty-*`, `explore-*`) are captured the same way
-against those routes; extend the scripts as those pages change.
+as the scripted ones, against those routes; extend the scripts as those pages change.

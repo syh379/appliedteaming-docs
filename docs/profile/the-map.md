@@ -22,8 +22,8 @@ The same map renders two ways, and the student toggles between them with **Graph
 - **The graph**: a force-directed web of nodes and connections. The default.
 - **The atlas**: an illustrated "map of you," the same six dimensions drawn as places.
 
-![The map, atlas view.](/screenshots/home-atlas.png)
-*The same six dimensions, drawn as an illustrated atlas.*
+![The map, atlas view.](/screenshots/atlas-view.png)
+*The same six dimensions, drawn as an illustrated atlas: Education Grove, Skills Workshop, Experience Village, and more, with the student's own character standing in the center.*
 
 ## What the student sees
 
