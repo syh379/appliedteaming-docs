@@ -1,6 +1,6 @@
 # What is Applied Teaming?
 
-Applied Teaming is a calm, reflection-first web app that helps students notice how they grow, as individuals and as teammates, over a semester. It quietly turns a student's own reflections into a living picture of who they are becoming. And it looks beyond the student's immediate circle: they can trace the paths of people who once sat where they sit, learn from where those alumni went and how they got there, and let that widen their own sense of what's possible.
+Applied Teaming is a web app that helps students notice how they grow, as individuals and as teammates, over a semester. It quietly turns a student's own reflections into a living picture of who they are becoming. And it looks beyond the student's immediate circle: they can trace the paths of people who once sat where they sit, learn from where those alumni went and how they got there, and let that widen their own sense of what's possible.
 
 This guide walks through **exactly what a student sees**, screen by screen, from their first sign-in to the end of a course - plus a short section on what you, as faculty, set up and can see.
 
