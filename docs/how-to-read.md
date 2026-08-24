@@ -9,10 +9,7 @@ Each page follows the same shape so it's easy to scan.
 
 ## The demo account
 
-Every screenshot in this guide was captured from a real seeded demo account so you can follow along:
-
-- **Student:** `maya.demo@berkeley.edu`
-- She's in two pilot courses - **Info 213** (a UX design class) and **MEC ENG C178 / BIO ENG C137** (a design course) - each with teammates and classmates.
+Every screenshot in this guide was captured from a **real seeded student account** in a live pilot course (**Info 213**, a UX design class), so what you see is exactly what a student sees — the same map, check-ins, teammates, and classmates.
 
 ::: info Following along yourself
 Ask your Applied Teaming contact for the demo sign-in, open the app, and you can retrace every step in this guide.
