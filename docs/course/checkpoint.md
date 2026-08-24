@@ -10,7 +10,7 @@
 2. **Your goal**: what they want to get out of the course (start), or how it's shifting (mid/end).
 3. **Your role**: the role they *expect* to play (start), or are *actually* playing (mid/end): pick up to two.
 4. **Core attributes**: pick up to three teaming attributes that matter most (see below).
-5. At the **mid and end** checkpoints, add brief **peer feedback** for each teammate.
+5. At the **mid and end** checkpoints, add a **required** peer-feedback card for each teammate.
 6. Save.
 
 </div>
@@ -21,6 +21,8 @@ At the **first** checkpoint the attributes question is **aspirational**: *which*
 
 ![The start-checkpoint survey, goal, role, and aspirational attributes.](/screenshots/checkpoint-charter.png)
 *The Team Charter: a goal, a role, and up to three attributes the student wants to get right (chosen, not rated).*
+
+There's **no peer feedback at the start**: the team hasn't worked together yet. It begins at the mid-point (see below).
 
 ## The mid and end checkpoints
 
@@ -38,7 +40,7 @@ At every checkpoint after the first, the student's **earlier goal answers are sh
 
 ### Peer feedback (mid and end)
 
-The same page adds a short **peer-feedback** section: for each teammate, what they did well and one thing that could help the team. It's optional, and shown only to the person it's about, later, in their [Personal view](/course/personal-view).
+The same page ends with a short **peer-feedback** section: one card per teammate, asking what they did well and one thing that could help the team. It's **required**: every teammate's card must be filled in before the check-in can be saved. It's shown only to the person it's about, later, in their [Personal view](/course/personal-view).
 
 ![The peer-feedback section.](/screenshots/checkpoint-peer.png)
 *Broad and kind, "what they did well" and "what could they do differently," one card per teammate.*
