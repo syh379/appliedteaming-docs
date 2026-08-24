@@ -23,7 +23,6 @@ export default defineConfig({
         text: "Start here",
         items: [
           { text: "What is Applied Teaming?", link: "/" },
-          { text: "How to read this guide", link: "/how-to-read" },
         ],
       },
       {

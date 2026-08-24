@@ -1,6 +1,6 @@
 # 1 · Sign up & sign in
 
-**What it is** - the front door. A student creates an account (or signs in) with Google or an email and password.
+**What it is**: the front door. A student creates an account (or signs in) with Google or an email and password.
 
 ## What the student does
 
@@ -14,7 +14,7 @@
 
 ## What the student sees
 
-![The sign-in screen - Google or email/password.](/screenshots/signin.png)
+![The sign-in screen, Google or email/password.](/screenshots/signin.png)
 *The sign-in screen. New students tap "Create an account" at the bottom.*
 
 ## Notes
@@ -23,5 +23,5 @@
 - After the very first sign-up, the student goes straight into [onboarding](/getting-started/onboarding). Returning students land on their [Home](/profile/the-map) screen.
 
 ::: warning A student is never asked to do anything risky
-The app never asks students for payment, IDs, or anything sensitive - just an email to sign in.
+The app never asks students for payment, IDs, or anything sensitive, just an email to sign in.
 :::

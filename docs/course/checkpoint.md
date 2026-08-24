@@ -1,15 +1,15 @@
 # A checkpoint check-in
 
-**What it is** — the short survey a student fills in at each checkpoint. It's the same shape every time, so it takes only a minute or two. **No scores anywhere** — it's reflection, not assessment.
+**What it is**: the short survey a student fills in at each checkpoint. It's the same shape every time, so it takes only a minute or two. **No scores anywhere**: it's reflection, not assessment.
 
 ## The three questions
 
 <div class="steps">
 
 1. From the dashboard, tap the **next-step** button (e.g., "Start: Team Charter").
-2. **Your goal** — what they want to get out of the course (start), or how it's shifting (mid/end).
-3. **Your role** — the role they *expect* to play (start), or are *actually* playing (mid/end): pick up to two.
-4. **Core attributes** — pick up to three teaming attributes that matter most (see below).
+2. **Your goal**: what they want to get out of the course (start), or how it's shifting (mid/end).
+3. **Your role**: the role they *expect* to play (start), or are *actually* playing (mid/end): pick up to two.
+4. **Core attributes**: pick up to three teaming attributes that matter most (see below).
 5. At the **mid and end** checkpoints, add brief **peer feedback** for each teammate.
 6. Save.
 
@@ -17,42 +17,42 @@
 
 ## The start checkpoint (the "charter")
 
-At the **first** checkpoint the attributes question is **aspirational** — *which* attributes the student most wants their team to get right. It's a simple pick-up-to-three, followed by one short reflection on why those matter. There are **no 👍 / 👉 / 👎 thumbs here** — you can't rate how a team is doing before it has done anything.
+At the **first** checkpoint the attributes question is **aspirational**: *which* attributes the student most wants their team to get right. It's a simple pick-up-to-three, followed by one short reflection on why those matter. There are **no 👍 / 👉 / 👎 thumbs here**: you can't rate how a team is doing before it has done anything.
 
-![The start-checkpoint survey — goal, role, and aspirational attributes.](/screenshots/checkpoint-charter.png)
-*The Team Charter: a goal, a role, and up to three attributes the student wants to get right — chosen, not rated.*
+![The start-checkpoint survey, goal, role, and aspirational attributes.](/screenshots/checkpoint-charter.png)
+*The Team Charter: a goal, a role, and up to three attributes the student wants to get right (chosen, not rated).*
 
 ## The mid and end checkpoints
 
-From the mid-point on, the attributes question flips to **how it's actually going**: each chosen attribute gets a **thumb** — 👍 going well · 👉 so-so · 👎 rough — and a single short reflection covers the set.
+From the mid-point on, the attributes question flips to **how it's actually going**: each chosen attribute gets a **thumb** (👍 going well · 👉 so-so · 👎 rough), and a single short reflection covers the set.
 
 ![The mid/end checkpoint survey with thumb ratings.](/screenshots/checkpoint-form.png)
 *One page: goal, role, and up to three attributes with a lightweight thumb rating, plus a short overall reflection.*
 
 ### Your goal, carried forward
 
-At every checkpoint after the first, the student's **earlier goal answers are shown above the question**, oldest first — so they can see how their thinking has moved before writing the next one.
+At every checkpoint after the first, the student's **earlier goal answers are shown above the question**, oldest first, so they can see how their thinking has moved before writing the next one.
 
 ![The goal carry-forward reminder.](/screenshots/checkpoint-carryforward.png)
-*"Previously, here's what you've said about your goal" — every earlier answer, in order. (This carry-forward is goal-only.)*
+*"Previously, here's what you've said about your goal", every earlier answer, in order. (This carry-forward is goal-only.)*
 
 ### Peer feedback (mid and end)
 
-The same page adds a short **peer-feedback** section — for each teammate, what they did well and one thing that could help the team. It's optional, and shown only to the person it's about, later, in their [Personal view](/course/personal-view).
+The same page adds a short **peer-feedback** section: for each teammate, what they did well and one thing that could help the team. It's optional, and shown only to the person it's about, later, in their [Personal view](/course/personal-view).
 
 ![The peer-feedback section.](/screenshots/checkpoint-peer.png)
-*Broad and kind — "what they did well" and "what could they do differently," one card per teammate.*
+*Broad and kind, "what they did well" and "what could they do differently," one card per teammate.*
 
 ## What the student sees
 
 The whole check-in is a **single page**. A microphone on every text field lets the student **speak instead of type** (transcribed on-device). The end-of-course check-in shows the full arc of earlier goals:
 
 ![The end-of-course post-mortem, with the whole goal history.](/screenshots/checkpoint-end.png)
-*The Post-mortem: "Looking back — did you get what you set out to?", above every goal from the semester.*
+*The Post-mortem: "Looking back, did you get what you set out to?", above every goal from the semester.*
 
 ## Notes
 
 - **The moment they submit**, the class view updates. Teammates never see their answers by name.
-- **Peer feedback is shown only to the person it's about**, later, in their Personal view — never to faculty by name.
-- **Roles and attributes are in-the-moment** — they're answered fresh each time, and the *shift* over the semester shows up in the reports, not as a reminder on the form.
+- **Peer feedback is shown only to the person it's about**, later, in their Personal view, never to faculty by name.
+- **Roles and attributes are in-the-moment**: they're answered fresh each time, and the *shift* over the semester shows up in the reports, not as a reminder on the form.
 - A student can revise a check-in anytime before its deadline.
