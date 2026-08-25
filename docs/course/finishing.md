@@ -7,7 +7,7 @@
 <div class="steps">
 
 1. The schedule shows **"You've completed every checkpoint."**
-2. Once the **whole team** finishes, the capstones unlock all at once: Full record, Interview stories, Growth summary, and the Team story.
+2. The student's **Full record** completes on their own finish; the **Interview stories**, **Growth summary**, and **Team story** unlock once the **whole team** finishes.
 3. The course is **archived**, a permanent part of the student's portfolio.
 
 </div>
@@ -42,18 +42,18 @@ A short, first-person reflection on how the student grew across the semester, th
 
 ### Team story
 
-The team-level keepsake: a plain-language **synthesis of how the team works**, drawn from the whole team's own answers about the core attributes, plus the roles they played and how they ranked those attributes. Aggregated, never anyone's answer by name.
+The team-level keepsake: a name-free **narrative of the team's whole arc**, where they started (their charter goals and intentions), how they worked, and how it changed by the end. Distinct from the "Team picture so far" (the current-state read that evolves each checkpoint), this is the story of the semester. Synthesized from the team's own words, never anyone's answer by name.
 
 ![The team story.](/screenshots/team-synthesis.png)
-*"How this team works", synthesized from the team's own words, never attributed.*
+*The team's semester, start to finish, synthesized from the team's own words, never attributed.*
 
 ## It feeds the map, automatically
 
 Finishing a course updates the student's [profile map](/profile/the-map) with no button to press:
 
 - **The course is a node** on the map (under Classes) from the day they enrolled; completion marks it done.
-- **New skills** surface from what the student did and reflected on, flowing in through the same invisible signal pipeline, with compounding confidence.
-- **Connections strengthen** between the course and the rest of the student's map.
+- **New skills** surface from what the student did, reflected on, and the peer feedback they received, flowing in through the same invisible signal pipeline, with compounding confidence across courses.
+- **The course connects to the skills it produced**, so the map shows "this experience gave me these", not just a lone class node.
 
 ## Notes
 

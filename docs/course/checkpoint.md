@@ -9,7 +9,7 @@
 1. From the dashboard, tap the **next-step** button (e.g., "Start: Team Charter").
 2. **Your goal**: what they want to get out of the course (start), or how it's shifting (mid/end).
 3. **Your role**: the role they *expect* to play (start), or are *actually* playing (mid/end): pick up to two.
-4. **Core attributes**: pick up to three teaming attributes that matter most (see below).
+4. **Core attributes**: pick up to three teaming attributes that matter most, then a one-sentence reflection on them (both required, see below).
 5. At the **mid and end** checkpoints, add a **required** peer-feedback card for each teammate.
 6. Save.
 
@@ -17,7 +17,7 @@
 
 ## The start checkpoint (the "charter")
 
-At the **first** checkpoint the attributes question is **aspirational**: *which* attributes the student most wants their team to get right. It's a simple pick-up-to-three, followed by one short reflection on why those matter. There are **no 👍 / 👉 / 👎 thumbs here**: you can't rate how a team is doing before it has done anything.
+At the **first** checkpoint the attributes question is **aspirational**: *which* attributes the student most wants their team to get right. It's a simple pick-up-to-three, followed by one short (required) reflection on why those matter. There are **no 👍 / 👉 / 👎 thumbs here**: you can't rate how a team is doing before it has done anything.
 
 ![The start-checkpoint survey, goal, role, and aspirational attributes.](/screenshots/checkpoint-charter.png)
 *The Team Charter: a goal, a role, and up to three attributes the student wants to get right (chosen, not rated).*
@@ -26,7 +26,7 @@ There's **no peer feedback at the start**: the team hasn't worked together yet. 
 
 ## The mid and end checkpoints
 
-From the mid-point on, the attributes question flips to **how it's actually going**: each chosen attribute gets a **thumb** (👍 going well · 👉 so-so · 👎 rough), and a single short reflection covers the set.
+From the mid-point on, the attributes question flips to **how it's actually going**: each chosen attribute gets a **thumb** to say how the team has been doing on it (👍 going well · 👉 so-so · 👎 rough), and a single short (required) reflection covers the set.
 
 ![The mid/end checkpoint survey with thumb ratings.](/screenshots/checkpoint-form.png)
 *One page: goal, role, and up to three attributes with a lightweight thumb rating, plus a short overall reflection.*

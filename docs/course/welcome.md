@@ -7,7 +7,7 @@
 <div class="steps">
 
 1. A short **welcome** frames the semester.
-2. **Share your stories**: the app turns the student's own experiences into a few short, **anonymized** stories. They pick two to share.
+2. **Share your stories**: the app turns the student's own experiences into a few short, **anonymized** stories. They pick two to share, or skip the step; it's optional.
 3. Those shared stories populate a **class storyboard**, an author-less wall of who's in the room, with AI-surfaced themes.
 
 </div>
@@ -26,6 +26,6 @@ A warm **storyboard** of classmates' shared stories, no names, with a short read
 
 ## Notes
 
-- **Sharing is always opt-in and anonymized.** A student chooses exactly what to share.
+- **Sharing is always opt-in and anonymized.** A student chooses exactly what to share, and can **skip the step entirely** with "Skip for now" (nothing about the class is gated behind it).
 - This is why the app leads with belonging: before reflecting on teamwork, students see the range and humanity of their classmates.
 - The storyboard also appears later inside the [Class view](/course/class-view).

@@ -10,7 +10,7 @@ A timeline of the student's check-ins, showing how their **goal, role, and read 
 *"Your growth over time", a per-check-in timeline, plus a "how your ratings have moved" strip.*
 
 - **How your ratings moved**: for any attribute rated more than once, the thumbs are shown in sequence (e.g., Clear team roles 👉 → 👍).
-- **Each check-in**: the goal, roles, and attribute notes the student wrote at that point.
+- **Each check-in**: the goal, roles, chosen attributes, and the short reflection the student wrote at that point.
 
 ## Feedback from teammates
 

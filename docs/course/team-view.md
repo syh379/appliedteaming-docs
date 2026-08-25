@@ -18,6 +18,8 @@ Below the counts sits a **synthesis**, a plain-language reading of how the team 
 ![How your team works.](/screenshots/team-synthesis-section.png)
 *"How your team works", the team's own words about each attribute, synthesized, never anyone's answer by name.*
 
+At the **first** checkpoint (the Team Charter) this reading is instead a forward-looking **kickoff**, "where your team is starting": the team's shared goals, the attributes they each want to get right, and the roles they expect to play, a get-to-know-each-other starting point. From the mid-point on it becomes the retrospective "how your team works" reading above.
+
 ## Why it's gated
 
 - **No one's picture is partial.** A team report built from half the team would be misleading, so it waits for everyone.
