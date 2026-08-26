@@ -1,6 +1,6 @@
 # Class view
 
-**What it is**: the whole cohort, anonymized. It's the one view that **updates live**, the moment any classmate submits. Three things live here.
+**What it is**: the whole cohort, anonymized. It's the one view that **updates live**, the moment any classmate submits. Four things live here.
 
 ## 1 · The class picture
 
@@ -22,6 +22,10 @@ The anonymized stories classmates chose to share, with a short AI reading of wha
 
 ![The class storyboard.](/screenshots/class-storyboard.png)
 *Author-less stories + surfaced themes, a picture of who's in the room.*
+
+## 4 · What the class is hoping for
+
+A short, name-free reading of the **goals** the class shares, synthesized from everyone's own words, so students see the threads that run across the cohort (for instance, many wanting to get more comfortable leading, or to turn research into decisions faster). Individual goals are **never** shown here, only the themes, and only once enough classmates have checked in.
 
 ## Notes
 

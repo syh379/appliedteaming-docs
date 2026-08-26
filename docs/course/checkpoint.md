@@ -15,6 +15,17 @@
 
 </div>
 
+## How each answer is used
+
+Under every question a quiet one-line note says exactly where that answer goes and whether it's by name or anonymized, so nothing about the survey is a surprise:
+
+- **Your goal** is shared with your **team by name** (so teammates know what each of you is working toward), and with the **class** only as **anonymized themes**.
+- **Your role** and the **attributes** are combined into your **team's and class's** totals, **anonymized**, never shown by name.
+- **Peer feedback** goes **only to each teammate** you write about, **without your name**.
+- Everything you write always stays visible to **you** in your [Personal view](/course/personal-view).
+
+The notes are small and calm, a single line under each question, so they inform without getting in the way of filling it out.
+
 ## The start checkpoint (the "charter")
 
 At the **first** checkpoint the attributes question is **aspirational**: *which* attributes the student most wants their team to get right. It's a simple pick-up-to-three, followed by one short (required) reflection on why those matter. There are **no 👍 / 👉 / 👎 thumbs here**: you can't rate how a team is doing before it has done anything.
@@ -43,7 +54,7 @@ At every checkpoint after the first, the student's **earlier goal answers are sh
 The same page ends with a short **peer-feedback** section: one card per teammate, asking what they did well and one thing that could help the team. It's **required**: every teammate's card must be filled in before the check-in can be saved. It's shown only to the person it's about, later, in their [Personal view](/course/personal-view).
 
 ![The peer-feedback section.](/screenshots/checkpoint-peer.png)
-*Broad and kind, "what they did well" and "what could they do differently," one card per teammate.*
+*Broad and kind, "what they did well" and "areas they can grow in," one card per teammate. Shown only to the person it's about, never by name.*
 
 ## What the student sees
 
