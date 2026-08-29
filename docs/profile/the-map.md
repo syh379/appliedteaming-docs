@@ -31,9 +31,9 @@ The same map renders two ways, and the student toggles between them with **Graph
 - **Nodes grow with confidence.** A skill seen once in a résumé is small; seen again in a reflection, it grows. The map rewards living, not data-entry.
 - **Click any node** to open its own detail page: what it is, where it came from, and a link to edit it.
 
-## The Profile tab, your impact dashboard
+## Your profile page, an impact dashboard
 
-The **Profile** tab is a different view of the same information: a dashboard of **landmarks** (places on your map), **regions explored** (of the six), your **signals** per dimension, and a **contribution history**, plus **Edit profile & settings**.
+Reached from the **avatar in the top-right of the header** (there's no separate Profile tab), your **profile page** is a different view of the same information: a dashboard of **landmarks** (places on your map), **regions explored** (of the six), your **signals** per dimension, and a **contribution history**, plus **Edit profile & settings**.
 
 ![The Profile impact dashboard.](/screenshots/profile-dashboard.png)
 *Profile: landmarks, signals per dimension, and when you added to your map.*
@@ -42,3 +42,4 @@ The **Profile** tab is a different view of the same information: a dashboard of 
 
 - The map is **private to the student** by default.
 - It updates on its own as the student adds experiences, completes surveys, and finishes courses (see [Adding to your map](/profile/adding)).
+- The **header** holds the global controls everywhere in the app: the tabs (Home · Portfolio · Explore), a **notification bell** (a reminder to import a résumé, and upcoming checkpoints that are about to open or come due), and the **avatar** (→ your profile & settings).

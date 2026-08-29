@@ -22,7 +22,7 @@ At the **first** checkpoint (the Team Charter) this reading is instead a forward
 
 ### Your team's goals
 
-The team view also shows **each teammate's individual goal, by name**, so everyone knows what the others are working toward and can back each other up. This is the one **attributed** part of the team view: goals are meant to be shared *within* the team. It's team-only, and unlocks with the rest of the report. (Roles, attributes, and the synthesis around it stay name-free.)
+The team view also shows **each teammate's individual goal**, so everyone knows what the others are working toward and can back each other up, but the goals are **not attached to names**, only the viewer's own is marked "your goal." Goals are shared *within* the team, yet stay anonymous like the rest of the report. It's team-only, and unlocks with the rest of the report. Roles, attributes, and the synthesis around it are name-free too.
 
 ## Why it's gated
 

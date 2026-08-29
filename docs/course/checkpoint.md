@@ -19,7 +19,7 @@
 
 Under every question a quiet one-line note says exactly where that answer goes and whether it's by name or anonymized, so nothing about the survey is a surprise:
 
-- **Your goal** is shared with your **team by name** (so teammates know what each of you is working toward), and with the **class** only as **anonymized themes**.
+- **Your goal** is shared with your **team** (so teammates can see what each of you is working toward) but **not attached to your name**, only your own is marked "your goal"; the **class** sees it only as **anonymized themes**.
 - **Your role** and the **attributes** are combined into your **team's and class's** totals, **anonymized**, never shown by name.
 - **Peer feedback** goes **only to each teammate** you write about, **without your name**.
 - Everything you write always stays visible to **you** in your [Personal view](/course/personal-view).
@@ -56,16 +56,18 @@ The same page ends with a short **peer-feedback** section: one card per teammate
 ![The peer-feedback section.](/screenshots/checkpoint-peer.png)
 *Broad and kind, "what they did well" and "areas they can grow in," one card per teammate. Shown only to the person it's about, never by name.*
 
+Before feedback can be sent, the app quietly **checks its tone**: clearly hurtful or abusive language is blocked, and wording that's harsh-but-not-abusive gets a **one-time, gentle nudge** with a kinder rewrite the student can accept or send as-is. Honest, direct critique still passes through, the check is only there to catch language that would land as a personal attack, so nothing hurtful reaches a teammate.
+
 ## What the student sees
 
 The whole check-in is a **single page**. A microphone on every text field lets the student **speak instead of type** (transcribed on-device). The end-of-course check-in shows the full arc of earlier goals:
 
-![The end-of-course post-mortem, with the whole goal history.](/screenshots/checkpoint-end.png)
-*The Post-mortem: "Looking back, did you get what you set out to?", above every goal from the semester.*
+![The end-of-course retrospective, with the whole goal history.](/screenshots/checkpoint-end.png)
+*The Retrospective: "Looking back, did you get what you set out to?", above every goal from the semester.*
 
 ## Notes
 
 - **The moment they submit**, the class view updates. Teammates never see their answers by name.
 - **Peer feedback is shown only to the person it's about**, later, in their Personal view, never to faculty by name.
 - **Roles and attributes are in-the-moment**: they're answered fresh each time, and the *shift* over the semester shows up in the reports, not as a reminder on the form.
-- A student can revise a check-in anytime before its deadline.
+- Each checkpoint has an **open date** and a **due date**. A student can fill it in or revise it anytime while it's open, right up to the due date; the **notification bell** in the header reminds them when one is about to open or come due.
