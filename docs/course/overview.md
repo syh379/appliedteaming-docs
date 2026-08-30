@@ -8,7 +8,7 @@ Every pilot course is the same handful of check-ins (**start, middle, end**), ju
 
 | Course | Check-ins |
 | --- | --- |
-| **Info 213** | Team Charter → Mid-point check-in → Retrospective *(3)* |
+| **Info 213** | Team Charter Input → Mid-point check-in → Retrospective *(3)* |
 | **MEC ENG C178 / BIO ENG C137** | Start → Mid-point 1 → Mid-point 2 → End *(4)* |
 
 Each check-in captures the **same three things**: an individual **goal**, a team **role**, and a few core **team attributes**. At the **start** the attributes are chosen aspirationally (what the team wants to get right); from the **mid-point** on, each gets a light 👍 / 👉 / 👎 on how it's *actually* going, with one short reflection. Same surveys everywhere; one course simply has an extra mid-point checkpoint.

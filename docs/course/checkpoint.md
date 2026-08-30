@@ -6,7 +6,7 @@
 
 <div class="steps">
 
-1. From the dashboard, tap the **next-step** button (e.g., "Start: Team Charter").
+1. From the dashboard, tap the **next-step** button (e.g., "Start: Team Charter Input").
 2. **Your goal**: what they want to get out of the course (start), or how it's shifting (mid/end).
 3. **Your role**: the role they *expect* to play (start), or are *actually* playing (mid/end): pick up to two.
 4. **Core attributes**: pick up to three teaming attributes that matter most, then a one-sentence reflection on them (both required, see below).
@@ -31,7 +31,7 @@ The notes are small and calm, a single line under each question, so they inform 
 At the **first** checkpoint the attributes question is **aspirational**: *which* attributes the student most wants their team to get right. It's a simple pick-up-to-three, followed by one short (required) reflection on why those matter. There are **no 👍 / 👉 / 👎 thumbs here**: you can't rate how a team is doing before it has done anything.
 
 ![The start-checkpoint survey, goal, role, and aspirational attributes.](/screenshots/checkpoint-charter.png)
-*The Team Charter: a goal, a role, and up to three attributes the student wants to get right (chosen, not rated).*
+*The Team Charter Input: a goal, a role, and up to three attributes the student wants to get right (chosen, not rated).*
 
 There's **no peer feedback at the start**: the team hasn't worked together yet. It begins at the mid-point (see below).
 
@@ -70,4 +70,4 @@ The whole check-in is a **single page**. A microphone on every text field lets t
 - **The moment they submit**, the class view updates. Teammates never see their answers by name.
 - **Peer feedback is shown only to the person it's about**, later, in their Personal view, never to faculty by name.
 - **Roles and attributes are in-the-moment**: they're answered fresh each time, and the *shift* over the semester shows up in the reports, not as a reminder on the form.
-- Each checkpoint has an **open date** and a **due date**. A student can fill it in or revise it anytime while it's open, right up to the due date; the **notification bell** in the header reminds them when one is about to open or come due.
+- Each checkpoint has an **open date** and a **due date**. Before the open date it's **locked** — the schedule and the check-in page simply say when it opens. Once open, a student can fill it in or revise it anytime (late submissions aren't blocked — better late than lost); the **notification bell** in the header reminds them when one is about to open or come due.
