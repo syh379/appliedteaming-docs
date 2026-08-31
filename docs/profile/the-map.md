@@ -7,13 +7,13 @@
 When a student signs in, they land on Home: the living map fills the screen, with a **rail** alongside it.
 
 ![The Home screen, the map plus a rail.](/screenshots/home-graph.png)
-*Home: the map, plus a rail showing what you're currently building.*
+*Home: the map on the left, and a rail to search, add, and see what you're building.*
 
 The rail shows:
 
-- **Currently building**: the student's active course, with progress and a jump-in link.
-- **Add**: one menu to grow any dimension of the map.
-- A light strip of recent **activity** (descriptive, never a streak).
+- **Search or add to your graph**: one search box with scope chips (**My portfolio**, **Course catalog**, **Experience**, **Direction**) to find something you already have or add something new (see [Adding to your map](/profile/adding)).
+- **Trending**: courses classmates are adding right now (shown only when enough people have, so it never singles anyone out).
+- **Currently building**: the student's active courses and experiences, each with a jump-in link.
 
 ## Two ways to see it
 
@@ -42,4 +42,4 @@ Reached from the **avatar in the top-right of the header** (there's no separate 
 
 - The map is **private to the student** by default.
 - It updates on its own as the student adds experiences, completes surveys, and finishes courses (see [Adding to your map](/profile/adding)).
-- The **header** holds the global controls everywhere in the app: the tabs (Home · Portfolio · Explore), a **notification bell** (a reminder to import a résumé, and upcoming checkpoints that are about to open or come due), and the **avatar** (→ your profile & settings).
+- The **header** holds the global controls everywhere in the app: the tabs (Home · Explore), a **notification bell** (a reminder to import a résumé, and upcoming checkpoints that are about to open or come due), and the **avatar** (→ your profile & settings).

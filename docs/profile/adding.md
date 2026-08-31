@@ -2,32 +2,30 @@
 
 **What it is**: the ways a student grows their map. Adding is meant to feel light, never a chore.
 
-## What the student does
-
-From the **Add** menu (or the "＋ add" prompt on an empty dimension), a student can add:
+## Two ways to add
 
 <div class="steps">
 
-1. **An experience**: an internship, research role, or project. It gets its own light dashboard with milestones and check-ins.
-2. **A course**: join a class or self-track one.
-3. **Education**: a school, degree, or field of study.
-4. **A skill**: typed directly, or pulled from a résumé.
-5. **A direction**: an aspiration or a target they're curious about.
-6. **Style**: the two short self-knowledge surveys (see [Style surveys](/profile/style)).
+1. **The search/add rail on Home**: the box reading *"Search or add to your graph,"* with scope chips for **My portfolio**, **Course catalog**, **Experience**, and **Direction**. Search to jump to something you already have, or add something new in that scope.
+2. **The "＋" prompts on the map**: every dimension shows a gentle dashed prompt while it's empty (*Add your education*, *Add a class*, *Add experience*, *Set your direction*). Click one to add straight into that part of the map.
 
 </div>
 
-![The Add menu.](/screenshots/add-menu.png)
-*One Add menu covers every dimension of the map.*
+![The Home rail and the "＋" prompts on the map.](/screenshots/home-graph.png)
+*Search or add from the rail, or click a "＋" prompt on the map itself.*
 
-## Experiences & the Portfolio
+## What a student can add
 
-The **Portfolio** tab collects a student's experiences and courses. Each experience is a small space to set an intention, note milestones, and check in over time, and the app writes back a short **"how you've grown"** from the student's own words.
+- **A course**: join a class with a code, or self-track any class from the **Berkeley catalog**. Courses land under **Classes**.
+- **An experience**: an internship, research role, or project, with its own light space to set an intention, note milestones, and check in over time.
+- **Education**: a school, degree, or field of study.
+- **A direction**: an aspiration or a target they're curious about.
+- **Style**: the two short self-knowledge surveys (see [Style surveys](/profile/style)).
 
-![The Portfolio of experiences and courses.](/screenshots/portfolio.png)
-*The Portfolio, a student's experiences and courses in one place.*
+**Skills aren't added by hand**: they're **inferred** from a résumé, a course, or an experience, and surface on the map on their own. (They can still be fine-tuned later under **Profile & settings → Portfolio**.)
 
 ## Notes
 
 - Everything a student adds **quietly feeds the map**: skills resolve into nodes, courses appear under Classes, and so on.
 - Signals **compound**: the same skill seen from two sources grows more confident and larger on the map.
+- Click any node to open it: what it is, where it came from, and (for a course or experience) a link to its dashboard.

@@ -13,6 +13,7 @@ export default defineConfig({
 
   themeConfig: {
     nav: [
+      { text: "For your students", link: "/for-your-students" },
       { text: "Guide", link: "/getting-started/sign-up" },
       { text: "A team course", link: "/course/overview" },
       { text: "For faculty", link: "/faculty/overview" },
@@ -23,6 +24,7 @@ export default defineConfig({
         text: "Start here",
         items: [
           { text: "What is Applied Teaming?", link: "/" },
+          { text: "Getting your students started", link: "/for-your-students" },
         ],
       },
       {
