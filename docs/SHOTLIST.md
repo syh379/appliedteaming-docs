@@ -16,7 +16,7 @@ export AT_OUT=../appliedteaming-docs/docs/public/screenshots   # adjust to your 
 
 # 1. Seed the three sessions, password-free (magic link + the app's /auth/confirm)
 node --env-file=.env scripts/docs/seed-session.mjs maya.demo@berkeley.edu                                    # → .auth/state.json
-AT_STATE=.auth/done.json    node --env-file=.env scripts/docs/seed-session.mjs jordan.sbox@appliedteaming.com # → .auth/done.json
+AT_STATE=.auth/done.json    node --env-file=.env scripts/docs/seed-session.mjs testuser2@appliedteaming.com # → .auth/done.json
 AT_STATE=.auth/faculty.json node --env-file=.env scripts/docs/seed-session.mjs stef.demo@berkeley.edu         # → .auth/faculty.json
 
 # 2. Capture
@@ -34,7 +34,7 @@ refresh after a UI change is a couple of commands.
 | Account | Role | Course |
 | --- | --- | --- |
 | `maya.demo@berkeley.edu` | Student, **mid-semester** | MEC ENG C178 (`designing-human-body-fall-2026`), partway through its check-ins |
-| `jordan.sbox@appliedteaming.com` | Student, **finished** | Info 213 (`info-213-sandbox`), Team Beacon — the completed-course pages |
+| `testuser2@appliedteaming.com` (Nora Alvarez) | Student, **finished** | Info 213 (`info-213-sandbox`), Team Beacon — the completed-course pages. Chosen because her capstones (interview stories, growth summary) are already generated; the seed inserted responses directly, so most students' capstones never ran. |
 | `stef.demo@berkeley.edu` | **Faculty** | Instructor of `info-213-sandbox` |
 | _(throwaway)_ | New student | Created + deleted by `capture-onboarding.mjs` for the onboarding screens |
 
