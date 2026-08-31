@@ -45,12 +45,23 @@ The four steps are: **basics** → **résumé** → **background** → **directi
 Onboarding only builds the student's own map. Everything it finds is shown for review, and stays fully editable later.
 :::
 
-## 3 · Join your class
+## 3 · You land on your Home map
 
-Once they're in, students add your course with the **join code** you shared.
+The moment onboarding finishes, the student lands on **Home** — their living map. Anything the résumé pulled in is already here (education, experience, skills); empty spots show gentle **＋** prompts, and a search bar sits on the right.
 
-![Joining a course with a code.](/screenshots/join-code.png)
-*Add a course → **Join with a code** → paste the code you gave out. If you've set up teams, students land on their team automatically.*
+![The Home map, right after setup.](/screenshots/home-fresh.png)
+*Home: the map on the left (note the dashed **＋ Add a class** prompt), and a search rail on the right that says "search above to join or add a class."*
+
+::: tip This is also where they join your class
+There's no separate page to hunt for. Both the **＋ Add a class** prompt on the map and the **Course catalog** search on the right lead to the join screen — that's the next step.
+:::
+
+## 4 · Join your class
+
+To join your course, the student clicks **＋ Add a class** on the map (or the **Course catalog** search), then chooses **Join by code** and pastes the **join code** you shared.
+
+![The join-by-code entry.](/screenshots/join-code.png)
+*Choose **Join with a code** and paste the code you gave out. If you've set up teams, students land on their team automatically.*
 
 That's the whole setup. From here the student is in your class and ready for the semester.
 
@@ -89,7 +100,7 @@ See [For faculty](/faculty/overview) for the full setup and dashboard walkthroug
 
 ## A script you can read aloud
 
-> "Open the link I shared and make an account, Google or an email works. You'll do a two-minute setup: your name, school, and if you have a résumé handy, drop it in, it fills things in for you. Then add our course with the code on the board. That's it for today. A few times this semester I'll ask you to do a short five-minute check-in about how your team is going, it's private, there are no scores, and it's just for your own reflection and mine."
+> "Open the link I shared and make an account, Google or an email works. You'll do a two-minute setup: your name, school, and if you have a résumé handy, drop it in, it fills things in for you. When you land on your Home map, click **Add a class**, choose **Join by code**, and type in the code on the board. That's it for today. A few times this semester I'll ask you to do a short five-minute check-in about how your team is going, it's private, there are no scores, and it's just for your own reflection and mine."
 
 ---
 

@@ -49,7 +49,7 @@ Grouped by where they appear in the guide:
 - **Getting started**: `signin`, `onboarding-basics`, `onboarding-resume`,
   `onboarding-review`, `onboarding-background`, `onboarding-direction`,
   `join-code`, `course-new`, `for-your-students` (uses several of the above)
-- **Living profile**: `home-graph`, `atlas-view`, `profile-dashboard`, `style-interests`
+- **Living profile**: `home-graph`, `home-fresh` (a brand-new student's Home, from `capture-onboarding.mjs`), `atlas-view`, `profile-dashboard`, `style-interests`
 - **Course dashboard**: `course-dashboard`, `course-tabs`, `finishing`
 - **Check-ins**: `checkpoint-charter` (start), `checkpoint-form` (mid/end),
   `checkpoint-carryforward`, `checkpoint-peer`, `checkpoint-end`
